@@ -7,7 +7,7 @@
     </td>
     <td width="75%">
       <h1 style='font-size:1.8em;color:black'>黄珺瑜（Huang Jun Yu）</h1>
-      <p><b>本科生</b></p>
+      <p><b>学历：本科生</b></p>
       <p><b>石家庄铁道大学</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
       <br/>
@@ -18,13 +18,9 @@
   </tr>
 </table>
 
-You can use the [editor on GitHub](https://github.com/HxYyWw/HxYyWw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简介
+&nbsp;&nbsp;本人热爱编写代码，拥有较为丰富的项目开发经验。掌握C++，C语言，python的基础语法，做过一些基于C++，C语言的基础小程序，使用python做过爬取，猫狗图片识别，手写数字识别、豆瓣评论情感分析等。学习实践web网页开发已经有两年，掌握开发所需的Java、html、css、jQuery、json、Ajax、bootstrap、echarts技术，熟练掌握web网页开发流程，MVC框架。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
