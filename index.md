@@ -13,7 +13,7 @@
       <br/>
       <p><b>邮箱：1731359550@qq.com</b></p>
       <p><b>联系方式：18831175264</b></p>
-      <p><b>GitHub：<a href='https://HxYyWw.github.io'>HxYyWw</a></b></p>
+      <p><b>GitHub：<a href='https://github.com/HxYyWw?tab=repositories'>HxYyWw</a></b></p>
     </td>
   </tr>
 </table>
