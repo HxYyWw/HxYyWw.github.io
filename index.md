@@ -6,7 +6,7 @@
       <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
-      <h1 style='font-size:1.8em;color:black'>黄珺瑜（Huang Jun Yu）</h1>
+      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）</h1>
       <p><b>学历：本科生</b></p>
       <p><b>石家庄铁道大学</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
