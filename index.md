@@ -1,4 +1,4 @@
-## 黄珺瑜（Huang Jun Yu）
+## 个人主页
 
 <table border="0">
   <tr>
@@ -6,14 +6,14 @@
       <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
-      <h1>黄珺瑜</h1>
+      <h1>黄珺瑜（Huang Jun Yu）</h1>
       <p><b>本科生</b></p>
       <p><b>石家庄铁道大学</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
       <br/>
       <p><b>邮箱：1731359550@qq.com</b></p>
       <p><b>联系方式：18831175264</b></p>
-      <p><b>GitHub：[HxYyWw](https://HxYyWw.github.io)</b></p>
+      <p><b>GitHub：<a href='https://HxYyWw.github.io'>HxYyWw</a></b></p>
     </td>
   </tr>
 </table>
