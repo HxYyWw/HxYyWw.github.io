@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
       <h1>黄珺瑜</h1>
