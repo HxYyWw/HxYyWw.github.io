@@ -13,7 +13,7 @@
       <br/>
       <p><b>邮箱：1731359550@qq.com</b></p>
       <p><b>联系方式：18831175264</b></p>
-      <p><b>GitHub：<a href='https://github.com/HxYyWw?tab=repositories'>HxYyWw</a></b></p>
+      <p><b>GitHub：<a href='https://github.com/HxYyWw?tab=repositories' target="_Blank">HxYyWw</a></b></p>
     </td>
   </tr>
 </table>
@@ -32,6 +32,6 @@
 
 ## 个人作品集
 （由于服务器配置原因，浏览时需多点耐心。）
-- <a href='http://39.107.204.35/sportsMeeting'>大二下学期：艾妮教务系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
-- <a href='http://39.107.204.35/DataProject/'>大三上学期：企业信息图谱分析</a>
-- <a href='http://39.107.204.35/samplereels/'>大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
+- <a href='http://39.107.204.35/sportsMeeting' target="_Blank">大二下学期：艾妮教务系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
+- <a href='http://39.107.204.35/DataProject/' target="_Blank">大三上学期：企业信息图谱分析</a>
+- <a href='http://39.107.204.35/samplereels/' target="_Blank">大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
