@@ -6,7 +6,7 @@
       <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
-      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）<span style='font-size:15px;margin-left:5em;'>个人名言：不甘堕落，向往优秀。</span></h1>
+      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）</h1>
       <p><b>学历：本科生</b></p>
       <p><b>就读高校：石家庄铁道大学</b></p>
       <p><b>地址：河北省石家庄市长安区北二环东路17号，邮编050043</b></p>
@@ -29,27 +29,9 @@
 - 在校获得一次一等奖学金，三次二等奖学金
 - 拥有两个软件著作权
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HxYyWw/HxYyWw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 个人作品集
+（由于服务器配置原因，浏览时需多点耐心。）
+- <a href='http://39.107.204.35/sportsMeeting'>大二下学期：艾妮教务系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
+- <a href='http://39.107.204.35/DataProject/'>大三上学期：企业信息图谱分析</a>
+- <a href='http://39.107.204.35/samplereels/'>大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
