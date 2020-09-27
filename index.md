@@ -6,7 +6,7 @@
       <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
-      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）</h1><span style='font-size:15px;margin-left:5em;'>个人名言：不甘堕落，向往优秀。</span>
+      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）<span style='font-size:15px;margin-left:5em;'>个人名言：不甘堕落，向往优秀。</span></h1>
       <p><b>学历：本科生</b></p>
       <p><b>就读高校：石家庄铁道大学</b></p>
       <p><b>地址：河北省石家庄市长安区北二环东路17号，邮编050043</b></p>
