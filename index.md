@@ -6,7 +6,7 @@
       <img src="/mypicture.jpg" width="100%">      
     </td>
     <td width="75%">
-      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）</h1>
+      <h1 style='font-size:1.5em;color:#606c71'>黄珺瑜（Huang Jun Yu）</h1><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人名言：不甘堕落，向往优秀。</p>
       <p><b>学历：本科生</b></p>
       <p><b>就读高校：石家庄铁道大学</b></p>
       <p><b>地址：河北省石家庄市长安区北二环东路17号，邮编050043</b></p>
@@ -20,7 +20,7 @@
 
 ## 个人简介
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人热爱编写代码，拥有较为丰富的项目开发经验。掌握C++，C语言，python的基础语法，做过一些基于C++，C语言的基础小程序，使用python做过爬取，猫狗图片识别，手写数字识别、豆瓣评论情感分析等案例。学习实践web网页开发已经有两年多，掌握开发所需的Java、html、css、jQuery、json、Ajax、bootstrap、echarts技术，熟练掌握web网页开发流程，MVC框架。综合成绩排班级第三。<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人名言：不甘堕落，向往优秀。
+
 
 ## 获奖情况
 - 院级程序设计竞赛二等奖
