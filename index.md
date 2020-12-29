@@ -36,7 +36,7 @@
 <img src="/pictures/project_1.png" width="100%" height="2650px">  
 
 - <a href='http://39.107.204.35/DataProject/' target="_Blank">大三上学期：企业信息图谱分析</a>
-<img src="/pictures/project_2.png" width="100%" height="2650px">
+<img src="/pictures/project_2.png" width="100%" height="2450px">
 
 - <a href='http://39.107.204.35/samplereels/' target="_Blank">大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
-<img src="/pictures/project_3.png" width="100%" height="2650px">
+<img src="/pictures/project_3.png" width="100%" height="2000px">
