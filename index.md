@@ -35,7 +35,11 @@
 - <a href='http://39.107.204.35/sportsMeeting' target="_blank">大二下学期：艾妮运动会成绩管理系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
 <img src="/pictures/1.1.png" width="100%" height="450px"> <img src="/pictures/1.2.png" width="100%" height="450px"> <img src="/pictures/1.3.png" width="100%" height="450px"> 
 <img src="/pictures/1.4.png" width="100%" height="450px"> <img src="/pictures/1.5.png" width="100%" height="450px"> <img src="/pictures/1.6.png" width="100%" height="450px"> 
+
 - <a href='http://39.107.204.35/DataProject/' target="_Blank">大三上学期：企业信息图谱分析</a>
+<img src="/pictures/3.1.png" width="100%" height="450px"> <img src="/pictures/3.2.png" width="100%" height="450px"> <img src="/pictures/3.3.png" width="100%" height="450px"> 
+<img src="/pictures/3.4.png" width="100%" height="450px"> <img src="/pictures/3.5.png" width="100%" height="450px">
+
 - <a href='http://39.107.204.35/samplereels/' target="_Blank">大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
 <img src="/pictures/2.1.png" width="100%" height="450px"> <img src="/pictures/2.2.png" width="100%" height="450px"> <img src="/pictures/2.3.png" width="100%" height="450px"> 
 <img src="/pictures/2.4.png" width="100%" height="450px">
