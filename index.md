@@ -19,7 +19,7 @@
 </table>
 
 ## 个人简介
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人热爱编写代码，拥有较为丰富的项目开发经验。掌握C++，C语言，python的基础语法，做过一些基于C++，C语言的基础小程序，使用python做过爬取，猫狗图片识别，手写数字识别、豆瓣评论情感分析等案例。学习实践web网页开发已经有两年多，掌握开发所需的Java、html、css、jQuery、json、Ajax、bootstrap、echarts技术，熟练掌握web网页开发流程，MVC框架。综合成绩排班级第三。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人热爱编写代码，拥有较为丰富的项目开发经验。掌握C++，C语言，python的基础语法，做过一些基于C++，C语言的基础小程序，使用python做过爬取，猫狗图片识别，手写数字识别、豆瓣评论情感分析等案例。学习实践web网页开发已经有两年多，掌握开发所需的Java、html、css、jQuery、json、Ajax、bootstrap、echarts技术，熟练掌握web网页开发流程，MVC框架。综合成绩排班级第三。年纪排名前百分之十五。<br/>
 
 
 ## 获奖情况
@@ -33,5 +33,6 @@
 ## 个人作品集
 （由于服务器配置原因，浏览时需多点耐心。）
 - <a href='http://39.107.204.35/sportsMeeting' target="_blank">大二下学期：艾妮运动会成绩管理系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
+- <p><img src="/mypicture.jpg" width="40%">  </p>
 - <a href='http://39.107.204.35/DataProject/' target="_Blank">大三上学期：企业信息图谱分析</a>
 - <a href='http://39.107.204.35/samplereels/' target="_Blank">大三下学期：信息领域热词分析、北京信访统计、新型冠状病毒疫情情况</a>
