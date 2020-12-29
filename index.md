@@ -32,7 +32,7 @@
 
 ## 个人作品集
 （由于服务器配置原因，浏览时需多点耐心。）
-- <a href='http://39.107.204.35/sportsMeeting' target="_blank">大二下学期：艾妮运动会成绩管理系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
+- <a href='http://39.107.204.35/sportsMeeting' target="_blank" ><span tyle='font-size:1.5em;color:#606c71'>大二下学期：艾妮运动会成绩管理系统</span></a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
 <img src="/pictures/1.1.png" width="100%" height="450px"> <img src="/pictures/1.2.png" width="100%" height="450px"> <img src="/pictures/1.3.png" width="100%" height="450px"> 
 <img src="/pictures/1.4.png" width="100%" height="450px"> <img src="/pictures/1.5.png" width="100%" height="450px"> <img src="/pictures/1.6.png" width="100%" height="450px"> 
 
