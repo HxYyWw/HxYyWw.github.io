@@ -32,9 +32,8 @@
 
 ## 个人作品集
 （由于服务器配置原因，浏览时需多点耐心。）
-- <a href='http://39.107.204.35/sportsMeeting' target="_blank" ><h2 tyle='font-size:1.5em;color:#606c71'>大二下学期：艾妮运动会成绩管理系统</h2></a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
-<img src="/pictures/1.1.png" width="100%" height="450px"> <img src="/pictures/1.2.png" width="100%" height="450px"> <img src="/pictures/1.3.png" width="100%" height="450px"> 
-<img src="/pictures/1.4.png" width="100%" height="450px"> <img src="/pictures/1.5.png" width="100%" height="450px"> <img src="/pictures/1.6.png" width="100%" height="450px"> 
+- <a href='http://39.107.204.35/sportsMeeting' target="_blank" >大二下学期：艾妮运动会成绩管理系统</a>(由于使用了大量的插件以至于大部分页面需要加载很久才能显示)
+<img src="/pictures/project_1.png" width="100%" height="450px">  
 
 - <a href='http://39.107.204.35/DataProject/' target="_Blank">大三上学期：企业信息图谱分析</a>
 <img src="/pictures/3.1.png" width="100%" height="450px"> <img src="/pictures/3.2.png" width="100%" height="450px"> <img src="/pictures/3.3.png" width="100%" height="450px"> 
